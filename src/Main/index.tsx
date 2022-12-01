@@ -102,7 +102,6 @@ export function Main() {
 						Novo Pedido
 					</Button>
 				)}
-rweqrwqeq
 				{selectedTable && (
 					<Cart
 						cartItems={cartItems}
